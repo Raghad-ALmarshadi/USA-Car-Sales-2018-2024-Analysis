@@ -116,10 +116,20 @@ http://127.0.0.1:8050/
 graphql
 Copy code
 ├── data/                  # CSV dataset from Kaggle
+
+
 ├── visuals/               # Exported static charts
+
+
 ├── app.py                 # Dash interactive dashboard
+
+
 ├── analysis.ipynb         # Jupyter Notebook with analysis
+
+
 └── README.md              # Project documentation
+
+
 📈 License
 Open-source for educational purposes / مفتوح المصدر لأغراض تعليمية
 
